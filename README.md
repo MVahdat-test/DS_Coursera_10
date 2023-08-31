@@ -1,5 +1,5 @@
 # DS_Coursera_10
-n this capstone assignment, we will be working
+In this capstone assignment, we will be working
 with SpaceX launch data that is gathered from an API, specifically the SpaceX REST API. This API will give us data about launches,
 including information about the rocket used, payload delivered, launch specifications,
 landing specifications, and landing outcome. Our goal is to use this data to predict whether
